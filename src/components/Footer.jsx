@@ -47,7 +47,7 @@ export default function Footer() {
               text-cyan-400
               "
             >
-              Hanumanth H
+              Hanumanthappa H
             </h2>
 
             <p
@@ -107,7 +107,7 @@ export default function Footer() {
           "
         >
 
-          © {new Date().getFullYear()} Hanumanth H • Built with React, Vite &
+          © {new Date().getFullYear()} Hanumanthappa H • Built with React, Vite &
           Tailwind CSS
 
         </p>

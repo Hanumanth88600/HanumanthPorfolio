@@ -217,7 +217,7 @@ export default function About() {
                 "
               >
 
-                Dayananda Sagar College
+                Dayananda Sagar College of Engineering
 
               </p>
 

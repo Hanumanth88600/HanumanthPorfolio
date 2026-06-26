@@ -95,7 +95,7 @@ export default function Hero() {
             leading-tight
             "
           >
-            Hanumanth H
+            Hanumanthappa H
           </h1>
 
           <div

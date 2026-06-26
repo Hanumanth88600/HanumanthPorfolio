@@ -71,7 +71,7 @@ export default function Navbar() {
           text-cyan-400
           "
         >
-          Hanumanth
+          Hanumanthappa
         </h2>
 
         <div
