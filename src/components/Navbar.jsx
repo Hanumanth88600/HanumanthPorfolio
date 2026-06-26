@@ -28,11 +28,7 @@ export default function Navbar() {
       id: "projects",
     },
 
-    {
-      title: "GitHub",
-      id: "github",
-    },
-
+   
     {
       title: "Contact",
       id: "contact",

@@ -29,8 +29,8 @@ const timeline = [
 
   {
     icon: <FaGraduationCap />,
-    title: "Bachelor of Computer Applications (BCA)",
-    company: "Government First Grade College",
+    title: "Bachelor of Commerce (Computer Application)",
+    company: "Veerashaiva Degree College",
     period: "2020 - 2023",
     description:
       "Built a strong foundation in Programming, DBMS, Operating Systems, Data Structures, and Software Development.",
